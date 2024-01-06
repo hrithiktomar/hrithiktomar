@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hrithiktomar
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👀 I’m interested in Web Development and Data Analysis
+- 🌱 I’m currently learning data analysis 
+- 💞️ I’m looking to collaborate on Web Development and Data Science projects
 - 📫 How to reach me linkedin.com/in/hrithik-tomar-101b20211
 
 <!---
